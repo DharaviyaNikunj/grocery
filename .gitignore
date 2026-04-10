@@ -1,0 +1,26 @@
+﻿# Node modules
+**/node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Local environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+*.log
+
+# Editor directories
+.vscode/
+.idea/
+.DS_Store
+
+# Uploads and runtime files
+uploads/
+**/uploads/
